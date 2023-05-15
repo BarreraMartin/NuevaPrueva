@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\bin\Debug\GonzalezMartinParcial.DataAccess.dll.config
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\bin\Debug\GonzalezMartinParcial.DataAccess.dll
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\bin\Debug\GonzalezMartinParcial.DataAccess.pdb
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\bin\Debug\GonzalezMartinParcial.Entities.dll
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\bin\Debug\GonzalezMartinParcial.Entities.pdb
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\bin\Debug\GonzalezMartinParcial.Entities.dll.config
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\obj\Debug\GonzalezMartinParcial.DataAccess.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\obj\Debug\GonzalezMartinParcial.Entities.Migrations.Inicio.resources
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\obj\Debug\GonzalezMartinParcial.DataAccess.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\obj\Debug\GonzalezMartinParcial.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\obj\Debug\GonzalezMartinParcial.DataAccess.csproj.CopyComplete
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\obj\Debug\GonzalezMartinParcial.DataAccess.dll
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.DataAccess\obj\Debug\GonzalezMartinParcial.DataAccess.pdb

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\bin\Debug\GonzalezMartinParcial.Entities.dll.config
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\bin\Debug\GonzalezMartinParcial.Entities.dll
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\bin\Debug\GonzalezMartinParcial.Entities.pdb
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\obj\Debug\GonzalezMartinParcial.Entities.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\obj\Debug\GonzalezMartinParcial.Entities.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\obj\Debug\GonzalezMartinParcial.Entities.csproj.CopyComplete
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\obj\Debug\GonzalezMartinParcial.Entities.dll
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\obj\Debug\GonzalezMartinParcial.Entities.pdb
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\obj\Debug\GonzalezMartinParcial.Entities.Migrations.Inicio.resources
+C:\Users\admin\source\repos\GonzalezMartinParcial\GonzalezMartinParcial.Entities\obj\Debug\GonzalezMartinParcial.Entities.csproj.GenerateResource.cache
