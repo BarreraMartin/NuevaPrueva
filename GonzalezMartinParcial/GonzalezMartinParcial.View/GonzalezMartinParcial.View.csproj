@@ -63,6 +63,12 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="formularioPrueba.cs" />
+    <Compile Include="formulariosegundo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formulariosegundo.Designer.cs">
+      <DependentUpon>formulariosegundo.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormullarioPurebaaa.cs">
       <SubType>Form</SubType>
     </Compile>
